@@ -1,6 +1,5 @@
 // Fetch ou Axios
 // Vamos usar o Axios, npm i axios no front
-import "dotenv/config";
 import axios from "axios";
 
 // const { NODE_ENV } = process.env;
